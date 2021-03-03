@@ -1,2 +1,2 @@
 # Elasticsearch_GCN_Text_Classifier
-A text classifier using elasticsearch and GCN 
+A text classifier model using elasticsearch and GCN 
